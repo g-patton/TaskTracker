@@ -9,7 +9,7 @@ const Task = ({ task, onDelete, onToggle }) => {
       <h3>
         {task.text}{' '}
         <FaTimes
-          style={{ color: 'darkRed', cursor: 'pointer' }}
+          style={{ color: 'red', cursor: 'pointer' }}
           onClick={() => onDelete(task.id)}
         />
       </h3>

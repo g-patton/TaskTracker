@@ -11,12 +11,6 @@
       "text": "Meeting at School",
       "day": "Feb 6th at 1:30pm",
       "reminder": true
-    },
-    {
-      "text": "db test",
-      "day": "db test 3",
-      "reminder": false,
-      "id": 3
     }
   ]
 }
